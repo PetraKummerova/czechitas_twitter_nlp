@@ -23,10 +23,10 @@ from tqdm import tqdm
 # cd '/Users/Petra_Kummerova/Desktop/Python/NLP/Czechitas'
 
 # Twitter API deatils
-consumer_key= 'R4h8AHuGoIhHGaF8gqM9v7e09'
-consumer_secret= '84uSwytHNXQ7uj9AxziMdrFzsdCE2VUsqk67JJ2nZGYcnUe09M'
-access_token= '1130714178107400192-gsrzkNWAs3qhF0obWOgv251bEFh6AZ'
-access_token_secret= 'oVqNwg56RmgJCrCCQHT7lOMjB1TBGDqAMmVZ1I3y0fuqz'
+consumer_key= 'XXX'
+consumer_secret= 'XXX'
+access_token= 'XXX'
+access_token_secret= 'XXX'
 
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
